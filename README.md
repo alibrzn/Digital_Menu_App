@@ -1,16 +1,37 @@
-# React + Vite
+# 🍽️ Digital Menu App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive digital restaurant menu built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+This project provides an elegant and user-friendly experience for customers to browse menu items quickly and efficiently across all devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- ⚛️ Built with React
+- 🎨 Styled with Tailwind CSS
+- 📱 Fully Responsive Design
+- 🚀 Smooth Animations & Transitions
+- 🍔 Modern Food Menu UI
+- 🔍 Easy Navigation & User-Friendly Experience
+- ⚡ Fast Performance
+- 🌐 Cross-Browser Compatibility
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- React
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+
+<img src='./src/assets/photo_2026-06-21_10-10-52.jpg' width="80%" height="auto" max-width="80%" style="border-radius: 20px;" >
+<img src='./src/assets/photo_2026-06-21_10-10-56.jpg' width="80%" height="auto" max-width="80%" style="border-radius: 20px;" >
+<img src='./src/assets/photo_2026-06-21_10-11-00.jpg' width="80%" height="auto" max-width="80%" style="border-radius: 20px;" >
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/digital-menu-app.git
