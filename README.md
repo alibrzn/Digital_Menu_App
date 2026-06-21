@@ -31,17 +31,10 @@ This project provides an elegant and user-friendly experience for customers to b
 
 ## 🚀 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/digital-menu-app.git
--------------------------------------------------------------------------------------------------------------------------------------------
-
----
+UI by : https://www.figma.com/design/tjWFR8DKBwiluzwUoxcfXT/Food-terminal---POS-for-tablet--%F0%9F%A6%84-freebies--Community-?m=auto&t=13PQJIWI3EF8MbXa-6
 
 # README (فارسی)
 
-```md
 # 🍽️ اپلیکیشن منوی دیجیتال
 
 یک منوی دیجیتال مدرن و ریسپانسیو برای رستوران‌ها و کسب‌وکارهای غذایی که با React و Tailwind CSS توسعه داده شده است.
