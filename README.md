@@ -1,5 +1,8 @@
 # 🍽️ Digital Menu App
 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8?logo=tailwindcss)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
+
 A modern and responsive digital restaurant menu built with React and Tailwind CSS.
 
 This project provides an elegant and user-friendly experience for customers to browse menu items quickly and efficiently across all devices.
