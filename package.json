@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -10,12 +11,18 @@
     "preview": "vite preview",
     "engines": "node": "20.x"
   },
+
+  "engines": {
+    "node": "20.x"
+  },
+
   "dependencies": {
     "@tailwindcss/vite": "^4.3.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "tailwindcss": "^4.3.1"
   },
+
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/react": "^19.2.14",
