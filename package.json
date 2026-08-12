@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "engines": "node": "20.x"
+    "engines": "node20.x"
   },
 
   "engines": {
